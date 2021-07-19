@@ -13,7 +13,6 @@ echo -e "\e[36mRemote share: \e[0m$remote_share"
 echo -e "\e[36mRemote_mounted_share: \e[0m$remote_mounted_share"
 echo -e "\e[36mLocal_dir: \e[0m$local_dir"
 echo -e "\e[36mUsername: \e[0m$username"
-echo -e "\e[36mPassword: \e[0m$password"
 echo -e "\e[0m=============================================="
 
 
